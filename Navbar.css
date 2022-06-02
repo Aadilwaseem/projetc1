@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+}
+.links{
+
+    font-size: larger;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-bottom: 5px;
+}
+
+.slink{
+    text-decoration: none;
+    margin-left: 130px;
+    padding-left: 60px;
+    color: white;
+}
+.logo{
+
+    margin-top: 30px;
+}
+.Btn{
+    margin-left: 45px;
+    font-size: 20px;
+    border: 0px;
+    font-weight:normal;
+}
+#fbt{
+    color: white;
+background-color: black;
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 25px;
+}
+#lbtn{
+    background-color: white;
+
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 25px;
+}

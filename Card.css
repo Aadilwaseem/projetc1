@@ -1,0 +1,54 @@
+.div{
+    background-color: black;
+    padding-top: 400px;
+    padding-bottom: 170px;
+}
+.ctn{
+    display: flex;
+    justify-content: center;
+  
+}
+.s-ctn{
+
+    background-color: whitesmoke;
+    border: 2px solid;
+    border-color: black;
+    margin: 30px;
+    width: 340px;
+    height: 750px;
+    padding-left: 26px;
+}
+#ss{
+    background-color:blue;
+}
+.button{
+    align-items: center;
+    position:absolute;
+    top: 120%;
+    left: 45%;
+    padding: 20px;
+    background-color: blue;
+    border: 0ch;
+    border-radius: 25px;
+}
+.c1{
+    font-weight:lighter;
+    font:bold;
+    font-size:50px;
+}
+.c2{
+
+    font-weight:lighter;
+    font:bold;
+    font-size:20px;
+}
+.c3{
+    font-weight:bold;
+    font:bold;
+    font-size:50px;
+}
+.c4{
+    font-weight:lighter;
+   
+    font-size:20px;
+}
